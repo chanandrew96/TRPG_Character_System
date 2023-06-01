@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'TRPGCharacterSystemWeb'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5AE1BC57560F4BCA95052D3EE4C33E5B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_52FB8142D33F4F3DB5A52FC1D6514DB2 }}
           package: .
