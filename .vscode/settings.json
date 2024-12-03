@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/534bcdc7-9f17-4db2-bec7-906683ff5549/resourceGroups/TRPG_Character_System_Resource_Group/providers/Microsoft.Web/sites/TRPGCharacterSystemWeb",
+    "appService.deploySubpath": "."
+}
